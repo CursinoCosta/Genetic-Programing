@@ -1,3 +1,4 @@
+Processo
 - Gerar a planilha dp de cada teste OK
 - Corrigir decepçao em todas as planilhas mean e dp OK
 - ter o dp da meanfit, meanfit e bestfit para todos os testes OK
@@ -17,6 +18,6 @@ pMut=0.3
 df=data
 k=2
 
-preciso de mais um dia e pouco de execução e mais umas 4h de trabalho com codigo 
-mais fazer a doc toda vai umas 3 horas
+O calculo da matriz de distância poderia ter sido feito de forma dinâmica.
+
 
